@@ -1,2 +1,2 @@
 # csv
-https://github.com/samot-samoe/csv/blob/main/customer_clustering.csv
+https://raw.githubusercontent.com/samot-samoe/csv/main/customer_clustering.csv
